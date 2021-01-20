@@ -26,10 +26,12 @@ sections:
     title: Our Hearing Care Services
     features:
       - title: Hearing Tests
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          There's nothing worse than to be told you need to get hearing aids
+          when you feel like you still hear at least most of the sounds around
+          you. The only way to prove once for all for yourself and others that
+          your hearing is either good enough or needs help is to get a hearing
+          test. 
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
