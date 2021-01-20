@@ -54,10 +54,11 @@ sections:
             url: /features
             style: secondary
       - title: AI and Mobile Apps
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+        content: >
+          Have you ever wanted to hear someone speak in another language and
+          instantly hear a translation? Or do you want the peace of mind of fall
+          detection but without having to wear another gadget? Now your hearing
+          aids can do this and much more.
         align: left
         image: images/feature.svg
         image_alt: Feature 3 placeholder image
