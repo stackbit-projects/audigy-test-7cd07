@@ -12,7 +12,7 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image: images/hero.svg
+    image: images/cafe_86773289_500x333.jpg
     image_alt: Hero placeholder image
     image_position: right
     has_background: true
