@@ -33,7 +33,7 @@ sections:
           your hearing is either good enough or needs help is to get a hearing
           test. 
         align: left
-        image: images/feature.svg
+        image: images/audiology_19630199_500x333.jpg
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
