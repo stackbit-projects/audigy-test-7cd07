@@ -32,7 +32,8 @@
                 "style": "primary"
             }
         ],
-        "logo": "images/audigy-certified-logo.png"
+        "logo": "images/audigy-certified-logo.png",
+        "logo_alt": "AudigyCertified"
     },
     "footer": {
         "has_nav": true,
