@@ -41,10 +41,10 @@ sections:
             url: /features
             style: secondary
       - title: Hearing Aid Fitting
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Your ears are unique as you are, and so is your hearing. We don't like
+          the cookie cutter or one size fits all approach, so we custom fit each
+          hearing aid and program each one for your specific needs. 
         align: left
         image: images/feature.svg
         image_alt: Feature 2 placeholder image
