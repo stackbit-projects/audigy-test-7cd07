@@ -60,7 +60,7 @@ sections:
           detection but without having to wear another gadget? Now your hearing
           aids can do this and much more.
         align: left
-        image: images/feature.svg
+        image: images/phone_610843580_500x334.jpg
         image_alt: Feature 3 placeholder image
         image_position: right
         actions:
