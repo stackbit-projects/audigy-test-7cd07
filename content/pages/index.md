@@ -46,7 +46,7 @@ sections:
           the cookie cutter or one size fits all approach, so we custom fit each
           hearing aid and program each one for your specific needs. 
         align: left
-        image: images/feature.svg
+        image: images/business_man_85246549_500x333.jpg
         image_alt: Feature 2 placeholder image
         image_position: left
         actions:
