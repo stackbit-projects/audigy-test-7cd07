@@ -33,7 +33,7 @@
             }
         ],
         "logo": "images/header-logo@2x.png",
-        "logo_alt": ""
+        "logo_alt": "Awesome Audiology"
     },
     "footer": {
         "has_nav": true,
