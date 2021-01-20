@@ -31,7 +31,8 @@
                 "url": "/contact",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo": "images/audigy-certified-logo.png"
     },
     "footer": {
         "has_nav": true,
