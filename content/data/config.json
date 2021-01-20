@@ -33,7 +33,7 @@
             }
         ],
         "logo": "images/audigy-certified-logo.png",
-        "logo_alt": "AudigyCertified"
+        "logo_alt": ""
     },
     "footer": {
         "has_nav": true,
